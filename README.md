@@ -1,4 +1,4 @@
-# Chess Game with Stockfish AI (OOP Implementation)
+# Chess Game with Stockfish AI
 
 This project is an object-oriented implementation of a chess game using Python, Pygame, and the Stockfish chess engine. It provides a user-friendly interface to play chess against the AI opponent (Stockfish) with a visually appealing board representation.
 
